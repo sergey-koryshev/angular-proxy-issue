@@ -1,0 +1,6 @@
+{
+    "/": {
+      "target": "http://localhost:8080/absproxy/4200",
+      "logLevel": "debug"
+    }
+  }
