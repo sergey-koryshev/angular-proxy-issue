@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "start-code-server": "ng serve --disable-host-check --verbose",
+    "start-code-server": "ng serve --disable-host-check --verbose --serve-path /absproxy/4200",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
